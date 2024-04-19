@@ -5,3 +5,5 @@
 ##### on
 ###### ...
 test test test
+
+![Image of Yaktocat bla bla bla alt text](https://octodex.github.com/images/yaktocat.png)
